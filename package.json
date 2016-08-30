@@ -1,0 +1,20 @@
+{
+  "name": "titan",
+  "version": "1.0.0",
+  "description": "titan on nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikkes"
+  },
+  "author": "vikkes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gremlin": "^2.3.2",
+    "nodemon": "^1.10.2"
+  }
+}
